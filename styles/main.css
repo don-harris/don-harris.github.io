@@ -1,0 +1,44 @@
+body {
+  background: 	#999;
+  font-family: Trebuchet MS;
+
+
+
+}
+
+header {
+  color: white;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/6b/40/0a/6b400a18fa5f1f69c8e4bc3cc9c1314e--twitter-header-image-twitter-headers.jpg);
+  background-repeat: no-repeat;
+  background-size: 990px;
+  background-position:
+  background-size: 100%;
+  color: white;
+  max-width: 800px 0px 0px 0px;
+  margin: 0 auto;
+  padding: 50px 0px 0px 39px;
+}
+
+.main {
+  font-family: Copperplate Gothic Light, sans-serif;
+ba
+}
+footer {
+  max-width: 220px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+
+nav ul{
+  display: inline;
+  margin: 0;
+}
+
+nav ul li{
+  color: white;
+  font-family: Copperplate Gothic Light, sans-serif;
+  display: inline-block;
+  list-style-type: none;
+  padding: 20px 20px;
+}
