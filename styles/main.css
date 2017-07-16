@@ -3,25 +3,24 @@ body {
   font-family: Trebuchet MS;
 
 
-
 }
 
 header {
   color: white;
-  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/6b/40/0a/6b400a18fa5f1f69c8e4bc3cc9c1314e--twitter-header-image-twitter-headers.jpg);
+  background-image: url(http://simoncpage.co.uk/blog/wp-content/uploads/2010/03/graphic-design-spec-work-limited-edition-header4.jpg);
   background-repeat: no-repeat;
   background-size: 990px;
   background-position:
-  background-size: 100%;
   color: white;
-  max-width: 800px 0px 0px 0px;
+  max-width: 0px 0px 0px 0px;
   margin: 0 auto;
   padding: 50px 0px 0px 39px;
 }
 
-.main {
+h1 {
   font-family: Copperplate Gothic Light, sans-serif;
-ba
+  display: inline;
+
 }
 footer {
   max-width: 220px;
@@ -41,4 +40,16 @@ nav ul li{
   display: inline-block;
   list-style-type: none;
   padding: 20px 20px;
+}
+
+nav ul li a {
+  color: white
+
+
+}
+
+p.questions {
+font-family: Avantgarde, sans-serif;
+
+
 }
