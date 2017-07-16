@@ -1,6 +1,7 @@
 body {
   background: 	#999;
   font-family: Trebuchet MS;
+  background-image: url(http://images.huffingtonpost.com/2016-08-25-1472147955-6786115-designheader.jpg);
 
 
 
@@ -21,6 +22,12 @@ h1 {
   display: inline;
 
 }
+
+h4 {
+
+
+}
+
 footer {
   text-align: center;
   margin: 0 auto;
@@ -43,12 +50,13 @@ nav ul li{
 }
 
 nav ul li a {
-  color: white
+  color: white;
 
 
 }
 
-p.questions {
+.questions {
+  color: pink;
 font-family: Avantgarde, sans-serif;
 
 
