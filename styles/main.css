@@ -1,5 +1,5 @@
 body {
-  background: 	white;
+  background: 	#999;
   font-family: Trebuchet MS;
 
 
@@ -8,12 +8,10 @@ body {
 
 header {
   color: white;
-  background-image: url(http://simoncpage.co.uk/blog/wp-content/uploads/2010/03/graphic-design-spec-work-limited-edition-header4.jpg);
-  background-repeat: no-repeat;
-  background-size: 990px;
-  background-position:
-  color: white;
-  max-width: 0px 0px 0px 0px;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/2a/cd/b1/2acdb1dc422f9707aedd084f7bfbb3db.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
   margin: 0 auto;
   padding: 50px 0px 0px 39px;
 }
@@ -24,7 +22,7 @@ h1 {
 
 }
 footer {
-  max-width: 220px;
+  text-align: center;
   margin: 0 auto;
   padding: 40px 0;
 }
@@ -32,12 +30,13 @@ footer {
 
 nav ul{
   display: inline;
-  margin: 0;
+  margin: 0 0 0 45%;
 }
 
 nav ul li{
   color: white;
   font-family: Copperplate Gothic Light, sans-serif;
+  font-weight: bold;
   display: inline-block;
   list-style-type: none;
   padding: 20px 20px;
