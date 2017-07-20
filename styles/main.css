@@ -25,7 +25,7 @@ h1 {
 
 h4 {
   color: white;
-  padding: 40px;
+  padding: 8px;
   font-family: Trebuchet MS;
   font-size: xx-large;
   text-shadow: 2px 2px 4px #000000;
@@ -50,6 +50,7 @@ nav ul li {
   padding: 0px 0px 0px 20px;
   color: white;
   font-weight: bold;
+  border-style: dotted;
 }
 
 h5 {
@@ -59,6 +60,16 @@ h5 {
   text-align: center;
   color: white;
   text-shadow: 2px 2px 4px #000000;
+}
+
+.reflect {
+background-image: url(http://keepstreetslive.com/wp-content/uploads/2016/01/shutterstock_2373999221.jpg);
+background-size: cover;
+}
+
+.time {
+background-image: url(https://www.dayoutwiththekids.co.uk/media/6554/34904-whitley-bay-south-beach-whitley-bay-01.jpg?mode=crop&quality=75&width=1680&height=940);
+background-size: cover;
 }
 
 footer {
