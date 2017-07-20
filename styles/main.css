@@ -1,64 +1,62 @@
-body {
-  background: #999;
+Body {
+  background: #555;
   font-family: Trebuchet MS;
-  background-image: url(http://images.huffingtonpost.com/2016-08-25-1472147955-6786115-designheader.jpg);
+  background-image: url(http://www.imgbase.info/images/safe-wallpapers/travel/united_kingdom/55937_united_kingdom_newcastle.jpg);
 }
 
 header {
-  color: white;
-  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/2a/cd/b1/2acdb1dc422f9707aedd084f7bfbb3db.jpg);
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  margin: 0 auto;
-  padding: 50px 0px 0px 39px;
+  padding-left: 20px;
+  padding-right: 20px;
+  z-index: 30;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: black;
+  opacity: 0.5;
 }
 
 h1 {
   font-family: Copperplate Gothic Light, sans-serif;
   display: inline;
-}
-
-.homecontent {
-  font-size: 15.4rem;
-  line-height: 0.812;
-  letter-spacing: 0.02em;
-  font-family: "Druk Web", Arial, sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  margin: auto;
-  text-transform: uppercase;
+  margin-left: 20px;
   color: white;
-}
 
-
-h4 {}
-
-footer {
-  text-align: center;
-  margin: 0 auto;
-  padding: 40px 0;
 }
 
 nav ul {
   display: inline;
-  margin: 0 0 0 45%;
+  margin: 0 0 0 55%;
 }
 
 nav ul li {
   color: white;
-  font-family: Copperplate Gothic Light, sans-serif;
+  font-family: ;
   font-weight: bold;
   display: inline-block;
   list-style-type: none;
   padding: 20px 20px;
 }
 
-nav ul li a {
+.content {
+
+  margin: 40px 0px;
+  padding: 0px 0px 0px 20px;
+
+}
+
+h5 {
+  font-size: 3.75rem;
+  letter-spacing: .05rem;
+  line-height: 1.27;
+  text-align: center;
   color: white;
 }
 
-.questions {
-  color: pink;
-  font-family: Avantgarde, sans-serif;
+footer {
+  text-align: center;
+  margin: 0 auto;
+  padding: 40px 0;
+  color: white;
+
 }
