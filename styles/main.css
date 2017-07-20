@@ -1,7 +1,7 @@
 Body {
   background: #555;
   font-family: Trebuchet MS;
-  background-image: url(http://www.imgbase.info/images/safe-wallpapers/travel/united_kingdom/55937_united_kingdom_newcastle.jpg);
+  background-image: url(../images/newcastle.jpg);
 }
 
 header {
@@ -62,15 +62,6 @@ h5 {
   text-shadow: 2px 2px 4px #000000;
 }
 
-.reflect {
-background-image: url(http://keepstreetslive.com/wp-content/uploads/2016/01/shutterstock_2373999221.jpg);
-background-size: cover;
-}
-
-.time {
-background-image: url(https://www.dayoutwiththekids.co.uk/media/6554/34904-whitley-bay-south-beach-whitley-bay-01.jpg?mode=crop&quality=75&width=1680&height=940);
-background-size: cover;
-}
 
 footer {
   text-align: center;
