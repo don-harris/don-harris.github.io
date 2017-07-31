@@ -2,69 +2,59 @@ Body {
   background: #555;
   font-family: Trebuchet MS;
   background-image: url(../images/newcastle.jpg);
+  padding-top: 2rem;
 }
 
 header {
-  padding-left: 20px;
-  padding-right: 20px;
-  z-index: 30;
-  position: fixed;
-  left: 0;
-  right: 0;
-  top: 0;
   background-color: black;
+  max-width: 960px;
+  margin: 0 auto;
   opacity: 0.5;
 }
 
+p {
+  display: inline;
+}
+
 h1 {
-  font-family: Copperplate Gothic Light, sans-serif;
-  display: inline;
-  margin-left: 20px;
   color: white;
 }
 
-h4 {
-  color: white;
-  padding: 8px;
-  font-family: Trebuchet MS;
-  font-size: xx-large;
-  text-shadow: 2px 2px 4px #000000;
+h2 {
+  float: right;
 }
 
-nav ul {
-  display: inline;
-  margin: 0 0 0 22%;
+.main .container .row {
+  margin: 0;
 }
 
-nav ul li {
-  color: white;
-  font-family: ;
-  font-weight: bold;
-  display: inline-block;
-  list-style-type: none;
-  padding: 10px 10px;
+.main .container .row .two-thirds.column {
+  background-color: #999;
+  margin: 0;
+  width: 100%;
 }
 
-.content {
-  margin: 40px 0px;
-  padding: 0px 0px 0px 20px;
-  color: white;
-  font-weight: bold;
+.main .container .row .one-third.column {
+  background-color: #d0e2ca;
+  margin: 0;
 }
 
-h5 {
-  font-size: 3.75rem;
-  letter-spacing: .05rem;
-  line-height: 1.27;
-  text-align: center;
-  color: white;
-  text-shadow: 2px 2px 4px #000000;
+.eda-main .container .row .two-thirds.column {
+  background-color: #fffdd0;
+  margin: 0;
 }
 
+.eda-main .container .row .one-third.column {
+  background-color: #68899A;
+  margin: 0;
+}
 
 footer {
-  text-align: center;
+  background-color: black;
+  max-width: 960px;
   margin: 0 auto;
-  padding: 40px 0;
+  opacity: 0.5;
   color: white;
+  width: 100%;
+  clear: both;
 }
