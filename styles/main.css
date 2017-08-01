@@ -7,13 +7,13 @@ Body {
 
 header {
   background-color: black;
-  max-width: 960px;
   margin: 0 auto;
   opacity: 0.5;
 }
 
 p {
   display: inline;
+  color: white;
 }
 
 h1 {
@@ -22,6 +22,17 @@ h1 {
 
 h2 {
   float: right;
+  color: white;
+  padding-right: 300px;
+}
+
+li {
+  color: yellow;
+}
+
+h4 {
+color: white;
+
 }
 
 .main .container .row {
@@ -29,14 +40,15 @@ h2 {
 }
 
 .main .container .row .two-thirds.column {
-  background-color: #999;
+  background-color: #001f3f;
   margin: 0;
   width: 100%;
 }
 
 .main .container .row .one-third.column {
-  background-color: #d0e2ca;
+  background-color: white;
   margin: 0;
+  padding: 40px;
 }
 
 .eda-main .container .row .two-thirds.column {
@@ -45,8 +57,12 @@ h2 {
 }
 
 .eda-main .container .row .one-third.column {
-  background-color: #68899A;
+  background-color: white;
   margin: 0;
+}
+
+a {
+  color: white;
 }
 
 footer {
